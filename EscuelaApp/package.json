@@ -1,0 +1,15 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "Crear  base de datos de escuela y mostrar tabla web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "axelrp"
+  },
+  "author": "axel",
+  "license": "ISC"
+}

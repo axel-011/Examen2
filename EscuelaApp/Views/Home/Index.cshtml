@@ -1,0 +1,31 @@
+﻿@model IEnumerable<EscuelaApp.Models.Estudiante>
+
+<h2>Lista de Estudiantes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Edad</th>
+            <th>Correo</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Nombre</td>
+            <td>@item.Apellido</td>
+            <td>@item.Edad</td>
+            <td>@item.Correo</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" href="/Estudiantes/Create">Agregar Estudiante</a>
+
+

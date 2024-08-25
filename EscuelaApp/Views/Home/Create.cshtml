@@ -1,0 +1,23 @@
+@model EscuelaApp.Models.Estudiante
+
+<h2>Agregar Estudiante</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Nombre</label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Apellido</label>
+        <input asp-for="Apellido" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Edad</label>
+        <input asp-for="Edad" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Correo</label>
+        <input asp-for="Correo" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>

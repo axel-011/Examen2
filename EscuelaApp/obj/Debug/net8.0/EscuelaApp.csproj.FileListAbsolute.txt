@@ -1,0 +1,8 @@
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.csproj.AssemblyReference.cache
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.AssemblyInfoInputs.cache
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.AssemblyInfo.cs
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.csproj.CoreCompileInputs.cache
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.RazorAssemblyInfo.cache
+C:\Users\axelp\OneDrive - CastroCarazo\Documentos\DataEscuela\EscuelaApp\obj\Debug\net8.0\EscuelaApp.RazorAssemblyInfo.cs
